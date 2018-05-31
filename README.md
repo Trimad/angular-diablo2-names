@@ -1,0 +1,1 @@
+# angular-diablo2-names
